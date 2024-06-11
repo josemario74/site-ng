@@ -1,5 +1,6 @@
 import Image from "next/image";
+import { Button } from 'reactstrap';
 
 export default function Home() {
-  return <main>Hello Word</main>;
+  return <div>May Page of my application</div>;
 }
